@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Available for opportunities",
+    "desc": "Full-stack developer based in Lima, Peru. I build web and mobile apps — and occasionally solder things that probably shouldn't work but do.",
+    "cta1": "See my work",
+    "cta2": "Download CV",
+    "scroll": "Scroll to explore"
+  },
+  "about": {
+    "title": "A bit about me.",
+    "body": "I'm a full-stack development student at Cibertec, Lima — working across web, mobile, and everything in between. I gravitate toward clean architecture, good APIs, and interfaces that actually make sense to use. Outside the screen, I build furniture, solder circuits, and make chainmail."
+  },
+  "skills": {
+    "title": "What I work with.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "mobile": "Mobile",
+    "tools": "Tools"
+  },
+  "projects": {
+    "title": "Things I've built."
+  },
+  "experience": {
+    "title": "Where I've been.",
+    "items": [
+      {
+        "date": "2023 — Now",
+        "role": "Full-Stack Developer",
+        "place": "Cibertec — Academic Projects",
+        "desc": "Lead developer on multiple team projects spanning web, mobile, and API development. Consistent focus on clean architecture and real-world deployment."
+      },
+      {
+        "date": "2023",
+        "role": "IT Consultant (Freelance)",
+        "place": "Independent — Lima",
+        "desc": "Set up Microsoft 365 email hosting for a client — DNS configuration, MX, SPF, DKIM, DMARC records, and mailbox provisioning via Namecheap."
+      },
+      {
+        "date": "2022 — Now",
+        "role": "Software Development Student",
+        "place": "Cibertec — Lima, Peru",
+        "desc": "Full-stack web development, mobile (iOS/Android), web services, concurrent programming, and software testing."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's talk.",
+    "email": "Email",
+    "profile": "Check my live profile →"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "eyebrow": "Disponible para oportunidades",
+    "desc": "Desarrollador full-stack con base en Lima, Perú. Construyo apps web y móviles — y de vez en cuando sueldo cosas que no deberían funcionar, pero funcionan.",
+    "cta1": "Ver proyectos",
+    "cta2": "Descargar CV",
+    "scroll": "Scroll para explorar"
+  },
+  "about": {
+    "title": "Un poco sobre mí.",
+    "body": "Soy estudiante de desarrollo full-stack en Cibertec, Lima — trabajo en web, móvil y todo lo que hay en medio. Me inclino por arquitecturas limpias, buenas APIs e interfaces que realmente tengan sentido. Fuera de la pantalla, hago muebles, sueldo circuitos y fabrico cotas de malla."
+  },
+  "skills": {
+    "title": "Con qué trabajo.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "mobile": "Móvil",
+    "tools": "Herramientas"
+  },
+  "projects": {
+    "title": "Lo que he construido."
+  },
+  "experience": {
+    "title": "Por donde he pasado.",
+    "items": [
+      {
+        "date": "2023 — Now",
+        "role": "Desarrollador Full-Stack",
+        "place": "Cibertec — Proyectos Académicos",
+        "desc": "Desarrollador principal en múltiples proyectos de equipo: web, móvil y APIs. Enfoque en arquitectura limpia y despliegue real."
+      },
+      {
+        "date": "2023",
+        "role": "Consultor IT (Freelance)",
+        "place": "Independiente — Lima",
+        "desc": "Configuración de correo Microsoft 365 para un cliente — DNS, MX, SPF, DKIM, DMARC y creación de buzones vía Namecheap."
+      },
+      {
+        "date": "2022 — Now",
+        "role": "Estudiante de Desarrollo de Software",
+        "place": "Cibertec — Lima, Perú",
+        "desc": "Desarrollo web full-stack, móvil (iOS/Android), servicios web, programación concurrente y pruebas de software."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hablemos.",
+    "email": "Correo",
+    "profile": "Ver mi perfil en vivo →"
+  }
+}
