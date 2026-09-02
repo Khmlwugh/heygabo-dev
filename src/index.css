@@ -27,6 +27,7 @@
   --card: #1c1b1a;
   --tag-bg: rgba(232,113,74,0.15);
   --tag-fg: #e8714a;
+  --nav-dot: #03fcec;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
