@@ -1,6 +1,6 @@
 import { useLang } from '../hooks/useLang'
 
-const TAGS = ['.NET Core', 'React', 'Swift / UIKit', 'SQL Server', 'Firebase', 'Woodworking', 'Electronics', 'Lima, PE']
+const TAGS = ['C#', '.NET Core', 'Java', 'Springboot', 'JavaScript', 'React', 'SQLServer', 'MySQL', 'Lima, PE']
 
 export default function About() {
   const { t } = useLang()

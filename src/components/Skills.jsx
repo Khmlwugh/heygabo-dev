@@ -2,8 +2,7 @@ import { useLang } from '../hooks/useLang'
 
 const SKILL_GROUPS = [
   { key: 'skills.frontend', items: ['React + Vite', 'Tailwind CSS', 'JavaScript / TS', 'HTML / CSS'] },
-  { key: 'skills.backend',  items: ['.NET Core / C#', 'SQL Server', 'Dapper / JWT', 'REST APIs'] },
-  { key: 'skills.mobile',   items: ['Swift / UIKit', 'Firebase', 'iOS development', 'Kotlin (basics)'] },
+  { key: 'skills.backend',  items: ['.NET Core / C#', 'SpringBoot / Java','MySQL / Postgresql / SQLServer', 'REST APIs'] },
   { key: 'skills.tools',    items: ['Git / GitHub', 'Vercel / Netlify', 'Figma', 'Postman'] },
 ]
 

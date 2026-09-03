@@ -1,31 +1,24 @@
 const projects = [
   {
-    name: "YachayTech",
-    desc: "Business simulation platform for Cibertec. Multi-role auth, scoring logic, admin panel, and case study management.",
-    stack: [".NET Core", "React", "SQL Server", "Tailwind"],
-    github: "#",
-    live: "#",
+    name: "heygabo.dev",
+    desc: "This portfolio site. Built with React + Vite and a hand-rolled design system, deployed on Vercel.",
+    stack: ["React", "Vite", "Tailwind CSS"],
+    github: null, // TODO: add your GitHub repo link
+    live: "https://heygabo.dev",
   },
   {
-    name: "PetLink",
-    desc: "Multi-tenant pet adoption platform with JWT auth, repository pattern, and stored procedures.",
-    stack: [".NET 10", "ASP.NET MVC", "SQL Server"],
-    github: "#",
-    live: null,
-  },
-  {
-    name: "MedAlert",
-    desc: "iOS app for managing prescriptions and lab results. Firebase Auth + Firestore, with a React admin panel.",
-    stack: ["Swift", "UIKit", "Firebase", "React"],
-    github: "#",
-    live: null,
+    name: "heygabo.now",
+    desc: "A live 'where is Gabo right now' dashboard — pulls current Spotify listening, last Steam session, latest GitHub commit, local weather, and NBA scores into one page.",
+    stack: ["React", "Node.js", "REST APIs"],
+    github: null, // TODO: add your GitHub repo link
+    live: null,   // TODO: add once polished and deployed
   },
   {
     name: "MicroViewer",
     desc: "Pathology education web app. Clean architecture with DatabaseExecutor / Repository / DTO pattern.",
     stack: [".NET Core", "React", "Tailwind"],
-    github: "#",
-    live: null,
+    github: null, // TODO: push after secrets audit
+    live: null,   // TODO: add once deployed on new pipeline
   },
 ]
 
