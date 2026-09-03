@@ -24,7 +24,9 @@ export default function Hero() {
             {t('hero.cta1')}
           </button>
           <button className="btn-outline">
-            {t('hero.cta2')}
+            <a href="src\assets\resume.pdf" target="_blank" rel="noopener noreferrer">
+              {t('hero.cta2')}
+            </a>
           </button>
         </div>
       </div>
