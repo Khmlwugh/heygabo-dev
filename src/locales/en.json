@@ -26,7 +26,21 @@
     "tools": "Tools"
   },
   "projects": {
-    "title": "Things I've built."
+    "title": "Things I've built.",
+    "items": {
+      "heygabo-dev": {
+        "name": "heygabo.dev",
+        "desc": "This portfolio site. Built with React + Vite and deployed on Vercel."
+      },
+      "heygabo-now": {
+        "name": "now.heygabo.dev",
+        "desc": "A personal tracker showing 'what's Gabo up to right now' — pulls current Spotify listening, last Steam session, latest GitHub commit, local weather, and NBA scores into one page."
+      },
+      "microviewer": {
+        "name": "MicroViewer",
+        "desc": "Pathology education web app. Clean architecture with DatabaseExecutor / Repository / DTO pattern."
+      }
+    }
   },
   "experience": {
     "title": "Where I've been.",

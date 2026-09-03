@@ -26,7 +26,21 @@
     "tools": "Herramientas"
   },
   "projects": {
-    "title": "Lo que he construido."
+    "title": "Cosas que he construido.",
+    "items": {
+      "heygabo-dev": {
+        "name": "heygabo.dev",
+        "desc": "Este portafolio. Construido con React + Vite y desplegado en Vercel."
+      },
+      "heygabo-now": {
+        "name": "heygabo.now",
+        "desc": "Un tracker personal que muestra 'en qué está Gabo ahora' — conectado para mostrar lo que escucho en Spotify, mi última sesión de Steam, mi último commit de GitHub, el clima local y resultados de la NBA, todo en una página."
+      },
+      "microviewer": {
+        "name": "MicroViewer",
+        "desc": "Aplicación web educativa de patología. Arquitectura limpia con el patrón DatabaseExecutor / Repository / DTO."
+      }
+    }
   },
   "experience": {
     "title": "Por donde he pasado.",
