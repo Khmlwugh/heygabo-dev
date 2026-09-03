@@ -1,9 +1,9 @@
 import { useLang } from '../hooks/useLang'
 
 const LINKS = [
-  { labelKey: 'contact.email', href: 'mailto:gabo@email.com',         display: 'gabo@email.com' },
+  { labelKey: 'contact.email', href: 'mailto:gabriel.flores.2296@gmail.com',         display: 'gabriel.flores.2296@gmail.com' },
   { labelKey: 'GitHub',        href: 'https://github.com/Khmlwugh',       display: 'github.com/Khmlwugh' },
-  { labelKey: 'LinkedIn',      href: 'https://linkedin.com/in/gabo',  display: 'linkedin.com/in/gabo' },
+  { labelKey: 'LinkedIn',      href: 'https://linkedin.com/in/heygabodev',  display: 'linkedin.com/in/heygabodev' },
 ]
 
 export default function Contact() {
@@ -28,7 +28,7 @@ export default function Contact() {
           ))}
         </div>
         <p style={{ fontFamily: 'var(--mono)', fontSize: '10px', letterSpacing: '0.1em', color: 'var(--fg3)' }}>
-          heygabo.dev — <a href="/now" style={{ color: 'var(--accent)', textDecoration: 'none' }}>{t('contact.profile')}</a>
+          now.heygabo.dev — <a href="https://now.heygabo.dev" style={{ color: 'var(--accent)', textDecoration: 'none' }}>{t('contact.profile')}</a>
         </p>
       </div>
     </section>

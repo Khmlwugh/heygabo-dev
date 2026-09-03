@@ -43,31 +43,25 @@
     }
   },
   "experience": {
-    "title": "Por donde he pasado.",
+    "title": "Por dónde he pasado.",
     "items": [
       {
-        "date": "2023 — Now",
+        "date": "2024 — Ahora",
         "role": "Desarrollador Full-Stack",
         "place": "Cibertec — Proyectos Académicos",
-        "desc": "Desarrollador principal en múltiples proyectos de equipo: web, móvil y APIs. Enfoque en arquitectura limpia y despliegue real."
+        "desc": "Desarrollé y lideré múltiples proyectos de equipo a lo largo de todo el stack — arquitectura limpia, APIs REST y despliegue en entornos reales."
       },
       {
-        "date": "2023",
-        "role": "Consultor IT (Freelance)",
-        "place": "Independiente — Lima",
-        "desc": "Configuración de correo Microsoft 365 para un cliente — DNS, MX, SPF, DKIM, DMARC y creación de buzones vía Namecheap."
-      },
-      {
-        "date": "2022 — Now",
-        "role": "Estudiante de Desarrollo de Software",
-        "place": "Cibertec — Lima, Perú",
-        "desc": "Desarrollo web full-stack, móvil (iOS/Android), servicios web, programación concurrente y pruebas de software."
+        "date": "2020 — 2022",
+        "role": "Gerente Regional de QA y Capacitación",
+        "place": "Majorel — Lima, Perú",
+        "desc": "Crecí desde asociado de atención al cliente hasta supervisar QA y capacitación en dos sedes (Perú y Colombia), gestionando gerentes locales de QA y un total de 14 QAs. Hice seguimiento de KPIs de sede, lideré el análisis de causas raíz ante caídas de rendimiento, y presenté resultados en reuniones semanales con liderazgo del cliente. Estuve a cargo de la programación de capacitaciones e inducción para nuevos ingresos, y representé a ambas sedes en reuniones globales de proceso."
       }
     ]
   },
   "contact": {
     "title": "Hablemos.",
     "email": "Correo",
-    "profile": "Ver mi perfil en vivo →"
+    "profile": "o mira qué estoy haciendo →"
   }
 }

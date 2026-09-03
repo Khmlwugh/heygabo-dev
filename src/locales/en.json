@@ -46,28 +46,22 @@
     "title": "Where I've been.",
     "items": [
       {
-        "date": "2023 — Now",
+        "date": "2024 — Now",
         "role": "Full-Stack Developer",
         "place": "Cibertec — Academic Projects",
-        "desc": "Lead developer on multiple team projects spanning web, mobile, and API development. Consistent focus on clean architecture and real-world deployment."
+        "desc": "Built and led development on multiple team projects across the full stack — clean architecture, REST APIs, and real-world deployment."
       },
       {
-        "date": "2023",
-        "role": "IT Consultant (Freelance)",
-        "place": "Independent — Lima",
-        "desc": "Set up Microsoft 365 email hosting for a client — DNS configuration, MX, SPF, DKIM, DMARC records, and mailbox provisioning via Namecheap."
-      },
-      {
-        "date": "2022 — Now",
-        "role": "Software Development Student",
-        "place": "Cibertec — Lima, Peru",
-        "desc": "Full-stack web development, mobile (iOS/Android), web services, concurrent programming, and software testing."
+        "date": "2020 — 2022",
+        "role": "Regional QA & Training Manager",
+        "place": "Majorel — Lima, Peru",
+        "desc": "Grew from customer service associate to overseeing QA and training across two sites (Peru and Colombia), managing local QA managers and 14 QAs total. Tracked site KPIs, led root-cause analysis on performance dips, and presented results in weekly client leadership calls. Owned training and induction scheduling for new hires and represented both sites in global process meetings."
       }
     ]
   },
   "contact": {
     "title": "Let's talk.",
     "email": "Email",
-    "profile": "Check my live profile →"
+    "profile": "or Check what I'm up to →"
   }
 }
